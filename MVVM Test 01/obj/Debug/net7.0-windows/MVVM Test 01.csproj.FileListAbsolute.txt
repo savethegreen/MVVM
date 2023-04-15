@@ -1,0 +1,21 @@
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\bin\Debug\net7.0-windows\MVVM Test 01.exe
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\bin\Debug\net7.0-windows\MVVM Test 01.deps.json
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\bin\Debug\net7.0-windows\MVVM Test 01.runtimeconfig.json
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\bin\Debug\net7.0-windows\MVVM Test 01.dll
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\bin\Debug\net7.0-windows\MVVM Test 01.pdb
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01.csproj.AssemblyReference.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01_MarkupCompile.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01_MarkupCompile.lref
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01.g.resources
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01.AssemblyInfoInputs.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01.AssemblyInfo.cs
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01.csproj.CoreCompileInputs.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01.dll
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\refint\MVVM Test 01.dll
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01.pdb
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\MVVM Test 01.genruntimeconfig.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\MVVM Test 01\MVVM Test 01\obj\Debug\net7.0-windows\ref\MVVM Test 01.dll

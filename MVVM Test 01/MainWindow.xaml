@@ -1,0 +1,39 @@
+﻿<Window x:Class="MVVM_Test_01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM_Test_01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" Text="{Binding InputText.Text, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+        <TextBox Grid.Row="1" Text="{Binding InputText.Text2, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+        <TextBox Grid.Row="2" Text="{Binding InputText.Text3, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+        <TextBox Grid.Row="3" Text="{Binding InputText.Text4, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+        <Button Grid.Row="5" Content="대문자로 변환" Click="Button_Click" Margin="0,0,0,10"/>
+
+        <Grid Grid.Row="6">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100*"> </ColumnDefinition>
+                <ColumnDefinition Width="100*"></ColumnDefinition>
+                <ColumnDefinition Width="100*"></ColumnDefinition>
+                <ColumnDefinition Width="100*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0" Text="{Binding OutputText}" FontWeight="Bold"/>
+            <TextBlock Grid.Column="1" Text="{Binding OutputText2}" FontWeight="Bold"/>
+            <TextBlock Grid.Column="2" Text="{Binding OutputText3}" FontWeight="Bold"/>
+            <TextBlock Grid.Column="3" Text="{Binding OutputText4}" FontWeight="Bold"/>
+        </Grid>
+    </Grid>
+</Window>
